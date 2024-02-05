@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compileCommands": "C:\\Users\\Rongj\\Workspace\\Temp\\hello_c\\.vscode\\compile_commands.json",
+            "compilerPath": "~\\scoop\\apps\\zig\\current\\zig.exe",
+            "compilerArgs": [
+                "cc"
+            ]
+        }
+    ],
+    "version": 4
+}

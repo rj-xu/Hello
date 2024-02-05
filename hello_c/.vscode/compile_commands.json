@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\Rongj\\Workspace\\Temp\\hello_c",
+  "arguments": ["zig cc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-DNDEBUG", "-o", "build\\.objs\\hello_c\\cygwin\\x64\\release\\src\\main.c.o", "src\\main.c"],
+  "file": "src\\main.c"
+}]
